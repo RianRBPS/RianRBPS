@@ -1,4 +1,4 @@
-### Hi there 👋, I´m a Computer Scientist
+### Hi there 👋, I'm a Computer Scientist
 
 
 - 🌱 I’m currently learning Data Science & Machine Learnig
