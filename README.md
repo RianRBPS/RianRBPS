@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm a Computer Scientist
 
-
-- 🌱 I’m currently learning Java
 -  📫 How to reach me: rianrbps@gmail.com
 
  <div>
